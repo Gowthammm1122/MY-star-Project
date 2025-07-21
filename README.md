@@ -37,7 +37,7 @@ Tailwind CSS	Utility-first CSS for styling
 bash
 Copy
 Edit
-git clone https://github.com/YOUR-GITHUB-USERNAME/award-winning-website.git
+git clone my repo link
 cd award-winning-website
 2️⃣ Install Dependencies
 bash
