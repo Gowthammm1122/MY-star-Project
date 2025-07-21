@@ -6,7 +6,7 @@ const ImageClipBox = ({ src, clipClass }) => (
     <img src={src} />
   </div>
 );
-
+// Created by Gowtham guys this is me vibe coding ,ref here is the vibe code
 const Contact = () => {
   return (
     <div id="contact" className="my-20 min-h-96 w-screen  px-10">
