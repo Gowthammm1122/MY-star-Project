@@ -31,7 +31,7 @@ const NavBar = () => {
     if (isAudioPlaying) {
       audioElementRef.current.play();
     } else {
-      audioElementRef.current.pause();
+      audioElementRef.current.pause();  
     }
   }, [isAudioPlaying]);
 
